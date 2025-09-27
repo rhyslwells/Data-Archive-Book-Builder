@@ -9,7 +9,7 @@ package-lock.json
 
 # venv should be empty but folder kept
 DAB/venv/*
-!DAB/venv/.gitignore
+!venv/.gitignore
 
 # DAB/content should be empty but folder kept
 DAB/content/*

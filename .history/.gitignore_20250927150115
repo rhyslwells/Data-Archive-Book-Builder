@@ -5,6 +5,6 @@ _book
 .DS_Store
 yarn.lock
 package-lock.json
-venv
-DAB/2204_standardised_backup
-DAB/content
+venv/*
+Other
+DAB/content/*
